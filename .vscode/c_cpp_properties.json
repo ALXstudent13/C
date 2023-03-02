@@ -4,7 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/workspaces/C/libcs50"
+                "/workspaces/C"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/clang",
